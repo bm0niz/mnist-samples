@@ -4,8 +4,8 @@ Set of MNIST implementations with multiple approaches:
 
 - :construction: Raw 
 - :hourglass: Neural Network
-- :hourglass:TensorFlow
-- :hourglass:PyTorch
+- :hourglass: TensorFlow
+- :hourglass: PyTorch
 - :hourglass: tinygrad
 
 Dataset from [kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset).
