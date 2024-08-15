@@ -2,8 +2,8 @@
 
 Set of MNIST implementations with multiple approaches:
 
-- :construction: Raw 
-- :hourglass: Neural Network
+- :white_check_mark: Raw 
+- :white_check_mark: Neural Network
 - :hourglass: TensorFlow
 - :hourglass: PyTorch
 - :hourglass: tinygrad
