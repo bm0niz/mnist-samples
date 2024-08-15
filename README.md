@@ -5,7 +5,7 @@ Set of MNIST implementations with multiple approaches:
 - :white_check_mark: Raw 
 - :white_check_mark: Neural Network
 - :white_check_mark: TensorFlow
-- :hourglass: PyTorch
+- :white_check_mark: PyTorch
 - :hourglass: tinygrad
 
 Dataset from [kaggle](https://www.kaggle.com/datasets/hojjatk/mnist-dataset).
